@@ -1,4 +1,4 @@
-# 🛗 Sistema de Elevador Inteligente com Sensores Hall e LCD
+# 🛗 Sistema de Elevador Inteligente com Sensores
 
 Este repositório contém o desenvolvimento de um protótipo de elevador automatizado de 4 andares. O projeto integra controle de hardware via Arduino, detecção magnética de posição e uma interface visual para o usuário.
 
